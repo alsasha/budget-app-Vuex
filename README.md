@@ -26,5 +26,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### What the project looks like
 
-![screen](src/img/screen.bmp)
+![screen](dist/screen.bmp)
 
